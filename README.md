@@ -26,4 +26,4 @@ This is a simple contact form application with backend support using PHP and a f
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/AndriiLeskiv/Contact-form-test.git
