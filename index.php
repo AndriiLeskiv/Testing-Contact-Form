@@ -30,7 +30,6 @@
             </form>
         </div>
     </div>
-
     <h3>Messages</h3>
     <div class="table-responsive">
         <table class="table table-bordered table-hover" id="messagesTable">
